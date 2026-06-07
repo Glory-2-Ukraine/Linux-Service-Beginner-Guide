@@ -9,8 +9,8 @@ Available in **English** and **Ukrainian (Українська)**.
 
 | Language | File |
 |----------|------|
-| 🇬🇧 English | [lesson_en.md](lesson_en.md) |
-| 🇺🇦 Ukrainian / Українська | [lesson_uk.md](lesson_uk.md) |
+| 🇬🇧 English | [how-to-create-a-linux-service-beginners-guide.md](how-to-create-a-linux-service-beginners-guide.md) |
+| 🇺🇦 Ukrainian / Українська | [yak-stvoryty-servis-na-linux-posibnyk-dlya-pochatkivtsiv.md](yak-stvoryty-servis-na-linux-posibnyk-dlya-pochatkivtsiv.md) |
 
 ---
 
